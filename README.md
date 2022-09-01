@@ -52,8 +52,9 @@ namespace largestofmumber
     }
 }
 
+
 ```
 ## Output:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/93587823/187835083-6f3944d3-e000-43ac-8239-4d4579024483.png)
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
